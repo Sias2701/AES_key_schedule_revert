@@ -61,4 +61,4 @@ for i in range(round_num):
 
     w = prev_w
 
-    #print(w)
+    print(w)
