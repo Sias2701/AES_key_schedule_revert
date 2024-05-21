@@ -26,7 +26,7 @@ def encrypt_with_status(key, plaintext):
 
 interval, round_keys = encrypt_with_status(key, plaintext)
 
-## We assume output of round 8 and input of round 9 is known.
+## We assume output of round 8 and output of round 9 is known.
 
 round_num = 9
 
